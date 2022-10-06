@@ -1,0 +1,1 @@
+{"playerID":"vflJiqSE7","patterns":["AX->(32)","AX->(13)","dg->(2)","bf->(14)"],"deciphers":{"dg":"a.splice(0,b)","bf":"a.reverse()","AX":"var c=a[0];a[0]=a[b%a.length];a[b%a.length]=c"}}

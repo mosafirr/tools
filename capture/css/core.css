@@ -1,0 +1,21 @@
+/**********************************
+
+
+
+***********************************/
+
+body {
+	padding: 10px;
+	font: 12px Verdana, Arial;
+	background-color:#ffffff;
+	text-align:center;
+}
+#menu 
+{
+    padding:15px 0px 25px 0px;
+}
+#menu a
+{
+    color:#000;
+    padding:3px;
+}
