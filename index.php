@@ -692,19 +692,6 @@ onscroll = function() {
 <input type="image" src="img/eti-online-tools-android.png" style="width: 165px; height: 48px; cursor:pointer"/>
 </form>
 
-<div class="topright">
-<!--<iframe allowfullscreen="allowFullScreen" src="https://www.youtube.com/embed/video-id?ecver=1&amp;autoplay=1&amp;iv_load_policy=1&amp;yt:stretch=16:9&amp;autohide=1" allowtransparency="true" width="350" height="200" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture allowfullscreen"></iframe>-->
-<!--<iframe allowfullscreen="allowFullScreen" src="https://www.youtube.com/embed/videoseries?list=PLPTIzKobHvR9wKDnPBcZBwLj4ifQtmCid&amp;autoplay=1&index=<?php print rand(1,177)?>" allowtransparency="true" width="350" height="200" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture allowfullscreen"></iframe>-->
-<iframe allowfullscreen="allowFullScreen" src="https://www.youtube.com/embed/?list=PLPTIzKobHvR9wKDnPBcZBwLj4ifQtmCid&amp;autoplay=1&index=<?php print rand(1,200)?>" allowtransparency="true" width="350" height="200" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture allowfullscreen"></iframe>
-
-<br />Friends:<br />
-
-<a href="https://rafled.com" target="_blank">www.rafled.com</a><br />
-<a href="https://www.rafled.jp" target="_blank">www.rafled.jp</a><br />
-<a href="https://handsonline.net" target="_blank">www.handsonline.net</a><br />
-<a href="https://www.directorylib.com" target="_blank">www.directorylib.com</a><br />
-</div>
-
 <?php
 include 'footer.php';
 ?>
